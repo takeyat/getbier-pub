@@ -1,0 +1,10 @@
+certifi==2019.6.16
+chardet==3.0.4
+cssselect==1.1.0
+idna==2.8
+lxml==4.4.1
+oauthlib==3.1.0
+requests==2.22.0
+requests-oauthlib==1.2.0
+TwitterAPI==2.5.9
+urllib3==1.25.3
